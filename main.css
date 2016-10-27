@@ -5,7 +5,7 @@ html{
 }
 .continer{
   width:940px;
-  margin-left: auto;
+  margin: auto;
 }
 h1{
   font-family: Arial Black,Arial;
